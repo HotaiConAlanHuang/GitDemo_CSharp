@@ -31,7 +31,7 @@ namespace GitDemoAPI
             app.MapControllers();
 
             app.Run();
-            //hotfix for A
+            //A緊急hotfix在main上進行
         }
     }
 }

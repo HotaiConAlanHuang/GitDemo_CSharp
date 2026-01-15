@@ -31,6 +31,7 @@ namespace GitDemoAPI
             app.MapControllers();
 
             app.Run();
+            //hotfix for A
         }
     }
 }

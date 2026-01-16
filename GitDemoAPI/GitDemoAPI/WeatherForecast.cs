@@ -9,5 +9,6 @@ namespace GitDemoAPI
         public int? TemperatureF =>  31 + (int)(TemperatureC / 0.5556);
       
         public string? Summary { get; set; }
+        public string? NewField { get; set; }
     }
 }

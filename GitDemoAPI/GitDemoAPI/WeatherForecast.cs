@@ -8,6 +8,6 @@ namespace GitDemoAPI
 
         public int? TemperatureF =>  31 + (int)(TemperatureC / 0.5556);
       
-        public string? Summary { get; set; }//rebase½m²ß
+        public string? Summary { get; set; }//rebase½m²ß xxxxx
     }
 }
